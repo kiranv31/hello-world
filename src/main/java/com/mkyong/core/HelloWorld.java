@@ -12,6 +12,7 @@ public class HelloWorld {
 	}
 
 	public void printHello() {
+		System.out.println("First git repo");
 		System.out.println("Spring 3 : Hello ! " + name);
 	}
 }
